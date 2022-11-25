@@ -1,7 +1,7 @@
 ## Version Control Project
 
 ## Authors:
-[Raji Risikat Yewande](https://github.com/wandexdev)
-Okwesirieze Amadi
+1. [Raji Risikat Yewande](https://github.com/wandexdev)
+2. Okwesirieze Amadi
 
 ## Description
