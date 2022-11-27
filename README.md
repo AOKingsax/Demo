@@ -12,4 +12,4 @@
 5. Merging and sorting conflicts.
 
 ## VPC details via the Instance used:
-![Screenshot of VPC details](vpcDEMO.png)
+![Screenshot of VPC details](image/vpcDEMO.png)
